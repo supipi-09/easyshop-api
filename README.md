@@ -1,4 +1,4 @@
-# Future Code Technology - Backend Developer Assessment
+
 
 A REST API built with Node.js, Express, and MySQL for the Backend Developer position assessment.
 
